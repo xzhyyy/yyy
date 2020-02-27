@@ -3,6 +3,7 @@ package com.xu;
 public class Tom {
 
 	public static void main(String[] args) {
+		System.out.println("idea");
 		System.out.println("===========");
 		System.out.println("TTTTTTTTTTT");
 		System.out.println("zzzzzzzzzzz");
